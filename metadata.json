@@ -1,0 +1,6 @@
+{
+  "name": "bd7news.com - সত্য সংবাদ সবসময়",
+  "description": "বাংলাদেশের অন্যতম নির্ভরযোগ্য ও আধুনিক অনলাইন নিউজ পোর্টাল। জাতীয়, রাজনীতি, আন্তর্জাতিক, খেলাধুলা, ক্রিকেট, ফুটবল, অর্থনীতি ও প্রযুক্তির সর্বশেষ সংবাদ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
